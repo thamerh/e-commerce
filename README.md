@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Welcome to your eCommerce website built with Next.js, MongoDB, and Stripe. This project aims to provide a scalable and modern solution for online commerce.
+Welcome to  eCommerce website built with Next.js, MongoDB, and Stripe. This project aims to provide a scalable and modern solution for online commerce.
 
 ## Features
 

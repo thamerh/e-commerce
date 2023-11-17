@@ -36,7 +36,7 @@ Make sure you have the following installed before running the application:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-eCommerce-website.git
+   git clone https://github.com/thamerh/e-commerce.git
    
 2. Navigate to the project folder:
    cd e-commerce
